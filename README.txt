@@ -1,3 +1,3 @@
 Nombre: Bastian Lagos
 Grupo: Integracion
-GitLab: No tengo cuenta gitlab
+GitHub: Bastian-Lagos, Bastian0089
